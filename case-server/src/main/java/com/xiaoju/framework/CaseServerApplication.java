@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 启动类
  *
- * @author didi
- * @date 2020/11/26
+ * @author shengHaojie
+ * @date 2021-4-21
  */
 @SpringBootApplication
 public class CaseServerApplication {
